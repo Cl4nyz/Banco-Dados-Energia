@@ -1,0 +1,12 @@
+Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e)
+Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e)
+Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e)
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e)
+GDP (constant 2015 US$)
+Surface area (sq. km)
+Forest area (sq. km)
+Rural land area (sq. km)
+Urban land area (sq. km)
+Population, total
+Rural population
+Urban population
