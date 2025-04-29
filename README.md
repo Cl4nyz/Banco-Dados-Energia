@@ -20,11 +20,7 @@ O presente projeto tem como objetivo correlacionar dados sobre energia, PIB, ter
 
 As pesquisas realizadas têm como foco:
 
-1. **Capacidade Energética**: Análise da capacidade instalada por tipo de combustível e região.
-2. **Emissões de Gases**: Estudo das emissões do setor energético, considerando diferentes fontes e intensidades de CO2.
-3. **Demanda e Geração de Energia**: Correlação entre a demanda de energia e a geração por diferentes fontes.
-4. **PIB e Energia**: Relação entre o PIB dos países e os dados energéticos.
-5. **Território e Demografia**: Impacto do território e da demografia nos dados energéticos e emissões.
+- A fazer
 
 ## Como Utilizar
 
