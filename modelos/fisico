@@ -36,13 +36,13 @@ CREATE TABLE IF NOT EXISTS public.distribuicao_territorial
     pais_codigo character varying(5) NOT NULL,
     area_id integer NOT NULL,
     ano integer NOT NULL,
-    valor double precision NOT NULL
+    area_km2 double precision NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS public.pib
 (
     ano integer NOT NULL,
-    valor double precision NOT NULL,
+    valor_usd double precision NOT NULL,
     codigo_pais character varying NOT NULL
 );
 
@@ -67,7 +67,7 @@ CREATE TABLE IF NOT EXISTS public.emissao_gas
     gas_id_gas integer NOT NULL,
     pais_codigo character varying(5) NOT NULL,
     ano integer NOT NULL,
-    valor double precision NOT NULL
+    emissao_mtco2 double precision NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS public.energia
