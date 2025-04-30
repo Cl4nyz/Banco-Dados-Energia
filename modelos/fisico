@@ -42,8 +42,9 @@ CREATE TABLE IF NOT EXISTS public.distribuicao_territorial
 CREATE TABLE IF NOT EXISTS public.pib
 (
     ano integer NOT NULL,
+    codigo_pais character varying NOT NULL,
     valor_usd double precision NOT NULL,
-    codigo_pais character varying NOT NULL
+    PRIMARY KEY (ano, codigo_pais)
 );
 
 CREATE TABLE IF NOT EXISTS public.demografia
