@@ -7,7 +7,7 @@
 
 ## Descrição do Projeto
 
-O presente projeto tem como objetivo correlacionar dados sobre energia, PIB, território, demografia e emissão de gases de diferentes países. Para isso, foram realizadas 5 pesquisas (queries) não triviais utilizando os arquivos CSV fornecidos. O projeto busca explorar relações entre essas variáveis, permitindo uma análise mais profunda e integrada dos dados.
+O presente projeto tem como objetivo aplicar ferramentas de bancos de dados na exploração do **Objetivo de Desenvolvido Sustentável 7: Energia Limpa e Renovável**. Para tal, correlaciona dados sobre energia, PIB, território, demografia e emissão de gases de diferentes países, realizando 5 pesquisas (queries) não triviais utilizando os arquivos CSV fornecidos. O projeto busca explorar relações entre essas variáveis, permitindo uma análise mais profunda e integrada dos dados.
 
 ## Estrutura do Projeto
 
