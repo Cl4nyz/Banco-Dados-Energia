@@ -16,7 +16,7 @@ O presente projeto tem como objetivo aplicar ferramentas de bancos de dados na e
   - `WDI_processado.csv`: Dados processados do World Development Indicators (WDI), incluindo PIB, população e área territorial.
 - **processamento_dados/**: Scripts para processamento e filtragem dos dados brutos.
   - `process_world_data.ipynb`: Notebook para processar os dados do WDI e gerar o arquivo `WDI_processado.csv`.
-- **populate_and_query.ipynb**: Notebook principal para criação de tabelas, população do banco de dados e execução das queries.
+- **postgre.ipynb**: Notebook principal para criação de tabelas, população do banco de dados e execução das queries.
 - **resultados/**: Contém os resultados das queries em formato CSV.
   - `resultado_query_1.csv` a `resultado_query_5.csv`: Resultados das análises realizadas.
 - **modelos/**: Contém o modelo físico do banco de dados.
@@ -45,7 +45,7 @@ As pesquisas realizadas têm como foco:
 ## Como Utilizar
 
 1. **Configuração do Banco de Dados**  
-   Certifique-se de ter um banco de dados PostgreSQL configurado. Atualize as credenciais no arquivo `populate_and_query.ipynb`:
+   Certifique-se de ter um banco de dados PostgreSQL configurado. Atualize as credenciais no arquivo `.env.example`, e o renomeie para `.env`:
    ```python
    NAME = 'projeto_mc536'
    USER = 'postgres'
