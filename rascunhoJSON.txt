@@ -1,0 +1,46 @@
+pais{
+	sigla:
+	nome:
+	continente:
+	grupos: [Sigla1, Sigla2]
+	estatistica: {
+		ano:
+		pib:
+		geografia: {
+			area_tipo:
+			num_habitantes:
+			area_km2:
+		}
+	}
+}
+
+emissão_anual{
+	gas:
+	medição: {
+		ano:
+		quantidade_mtco2
+	}
+}
+
+energia{
+	tipo_energia:
+	medida: {
+		tipo_interação:
+		unidade:
+		medição: {
+			ano:
+			quantidade:
+		}
+	}
+}
+
+energia2{
+	tipo_interacao:
+	unidade:
+	medição {
+		tipo_energia:{
+			ano:
+			quantidade
+		}
+	}
+}
