@@ -23,6 +23,7 @@ def create_pg_connection():
 			host=HOST,
 			port=PORT
 		)
+		print(f'Nome: {NAME}')
 		return conn
 	except Exception as e:
 		print(f"Erro ao conectar ao banco de dados: {e}")
@@ -41,7 +42,7 @@ def end_pg_connection(conn):
 		conn.close()
 		print("Conexão encerrada.")
 
-def execute_query(conn, num, query):
+def execute_query(conn, query, num=0):
 	"""Executa uma consulta SQL e retorna os resultados."""
 	cursor = conn.cursor()
 	try:
@@ -50,10 +51,16 @@ def execute_query(conn, num, query):
 		colnames = [desc[0] for desc in cursor.description]
 		df = pd.DataFrame(results, columns=colnames)
 		print(df.to_string(index=False))
-		df.to_csv(f'resultados/resultado_query_{num}.csv', index=False)
+		if (num != 0):
+			df.to_csv(f'resultados/resultado_query_{num}.csv', index=False)
 		print("Query executada com sucesso.")
 	except Exception as e:
 		print(f"Erro ao executar consulta: {e}")
 		return None
 	finally:
 		close_pg_cursor(cursor)
+
+def query_rows(conn, query):
+	cursor = conn.cursor()
+	cursor.execute(query)
+	return cursor.fetchall()

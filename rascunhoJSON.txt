@@ -1,46 +1,49 @@
-pais{
+pais {
 	sigla:
 	nome:
 	continente:
-	grupos: [Sigla1, Sigla2]
-	estatistica: {
+	grupos: String[]
+	estatisticas: {
 		ano:
 		pib:
 		geografia: {
 			area_tipo:
 			num_habitantes:
 			area_km2:
-		}
-	}
+		} []
+	} []
 }
 
 emissão_anual{
-	gas:
-	medição: {
+	gas: 
+	medições: {
 		ano:
 		quantidade_mtco2
-	}
+	} []
 }
 
 energia{
 	tipo_energia:
-	medida: {
+	medidas: {
 		tipo_interação:
 		unidade:
-		medição: {
+		medições: {
 			ano:
 			quantidade:
-		}
-	}
+		} []
+	} []
 }
+
+MELHOR:
 
 energia2{
 	tipo_interacao:
 	unidade:
-	medição {
-		tipo_energia:{
+	medições {
+		tipos_energia:{
+			nome:
 			ano:
 			quantidade
-		}
-	}
+		} []
+	} []
 }
