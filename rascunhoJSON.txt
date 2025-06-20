@@ -24,9 +24,7 @@ emissao_gas{
 	} []
 }
 
-MELHOR:
-
-energia2{
+energia{
 	tipo_interacao:
 	unidade:
 	fontes {
@@ -39,15 +37,3 @@ energia2{
 	} []
 }
 
-energia{
-	tipo_energia:
-	medidas: {
-		tipo_interação:
-		unidade:
-		medições: {
-			cod_pais
-			ano:
-			quantidade:
-		} []
-	} []
-}
