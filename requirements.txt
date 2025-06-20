@@ -1,6 +1,6 @@
-nbimporter==0.3.4
-python-csv==0.0.13
-python-dotenv==1.0.1
-pandas==2.2.2
-psycopg2==2.9.10
-pymongo==4.7.2
+nbimporter
+python-csv
+python-dotenv
+pandas
+psycopg2
+pymongo
