@@ -14,11 +14,28 @@ pais {
 	} []
 }
 
-emissão_anual{
-	gas: 
+emissao_gas{
+	nome: 
+	formula
 	medições: {
+		cod_pais
 		ano:
-		quantidade_mtco2
+		valor_mtco2
+	} []
+}
+
+MELHOR:
+
+energia2{
+	tipo_interacao:
+	unidade:
+	fontes {
+		nome:
+		medicoes:{
+			cod_pais
+			ano:
+			valor
+		} []
 	} []
 }
 
@@ -28,22 +45,9 @@ energia{
 		tipo_interação:
 		unidade:
 		medições: {
+			cod_pais
 			ano:
 			quantidade:
-		} []
-	} []
-}
-
-MELHOR:
-
-energia2{
-	tipo_interacao:
-	unidade:
-	medições {
-		tipos_energia:{
-			nome:
-			ano:
-			quantidade
 		} []
 	} []
 }
