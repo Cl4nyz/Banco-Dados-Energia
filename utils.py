@@ -2,6 +2,7 @@ import csv
 from dotenv import get_key
 import psycopg2
 import pandas as pd
+import os
 
 NAME = get_key('.env', 'PG_NAME')
 USER = get_key('.env', 'PG_USER')
@@ -52,7 +53,7 @@ def execute_query(conn, query, num=0):
 		df = pd.DataFrame(results, columns=colnames)
 		print(df.to_string(index=False))
 		if (num != 0):
-			df.to_csv(f'resultados/resultado_query_{num}.csv', index=False)
+			df.to_csv(f'resultados_postgre/resultado_query_{num}.csv', index=False)
 		print("Query executada com sucesso.")
 	except Exception as e:
 		print(f"Erro ao executar consulta: {e}")

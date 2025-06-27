@@ -6,7 +6,7 @@ pais {
 	estatisticas: {
 		ano:
 		pib:
-		geografia: {
+		geografias: {
 			area_tipo:
 			num_habitantes:
 			area_km2:
@@ -17,7 +17,7 @@ pais {
 emissao_gas{
 	nome: 
 	formula
-	medições: {
+	medicoes: {
 		cod_pais
 		ano:
 		valor_mtco2
@@ -25,7 +25,7 @@ emissao_gas{
 }
 
 energia{
-	tipo_interacao:
+	interacao:
 	unidade:
 	fontes {
 		nome:
