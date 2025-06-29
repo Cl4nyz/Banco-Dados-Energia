@@ -1,0 +1,748 @@
+ano,pais,fonte,producao_energia_porcentagem,emissao_co2_per_capita
+2010,Qatar,Gas,100.0,4466.0855
+2010,Trinidad and Tobago,Gas,99.76,3113.1566
+2010,Trinidad and Tobago,Other Fossil,0.24,3113.1566
+2010,Kuwait,Other Fossil,65.37,2938.7485
+2010,Kuwait,Gas,34.63,2938.7485
+2010,United Arab Emirates,Gas,99.98,2503.0241
+2010,United Arab Emirates,Solar,0.02,2503.0241
+2010,Bahrain,Gas,100.0,2347.1136
+2010,Luxembourg,Gas,90.12,2211.9013
+2010,Luxembourg,Hydro,3.4,2211.9013
+2010,Luxembourg,Bioenergy,2.47,2211.9013
+2010,Luxembourg,Wind,1.85,2211.9013
+2010,Luxembourg,Other Fossil,1.54,2211.9013
+2010,Luxembourg,Solar,0.62,2211.9013
+2010,Saudi Arabia,Other Fossil,55.23,2030.4521
+2010,Saudi Arabia,Gas,44.77,2030.4521
+2010,Australia,Coal,70.14,1884.8848
+2010,Australia,Gas,18.64,1884.8848
+2010,Australia,Hydro,5.48,1884.8848
+2010,Australia,Other Fossil,2.39,1884.8848
+2010,Australia,Wind,1.99,1884.8848
+2010,Australia,Bioenergy,0.97,1884.8848
+2010,Australia,Solar,0.39,1884.8848
+2010,Brunei Darussalam,Gas,98.94,1880.8815
+2010,Brunei Darussalam,Other Fossil,1.06,1880.8815
+2010,Oman,Gas,97.78,1867.4128
+2010,Oman,Other Fossil,2.22,1867.4128
+2010,United States of America,Coal,44.9,1785.0903
+2010,United States of America,Gas,24.01,1785.0903
+2010,United States of America,Nuclear,19.62,1785.0903
+2010,United States of America,Hydro,6.19,1785.0903
+2010,United States of America,Wind,2.3,1785.0903
+2010,United States of America,Bioenergy,1.36,1785.0903
+2010,United States of America,Other Fossil,1.15,1785.0903
+2010,United States of America,Other Renewables,0.43,1785.0903
+2010,United States of America,Solar,0.03,1785.0903
+2010,Canada,Hydro,57.89,1651.4877
+2010,Canada,Nuclear,14.83,1651.4877
+2010,Canada,Coal,14.24,1651.4877
+2010,Canada,Gas,8.69,1651.4877
+2010,Canada,Bioenergy,1.7,1651.4877
+2010,Canada,Wind,1.44,1651.4877
+2010,Canada,Other Fossil,1.17,1651.4877
+2010,Canada,Solar,0.04,1651.4877
+2010,Estonia,Other Fossil,89.59,1619.1066
+2010,Estonia,Bioenergy,5.71,1619.1066
+2010,Estonia,Gas,2.31,1619.1066
+2010,Estonia,Wind,2.16,1619.1066
+2010,Estonia,Hydro,0.23,1619.1066
+2010,Kazakhstan,Coal,80.65,1484.1992
+2010,Kazakhstan,Hydro,9.7,1484.1992
+2010,Kazakhstan,Gas,8.89,1484.1992
+2010,Kazakhstan,Other Fossil,0.75,1484.1992
+2010,Finland,Nuclear,28.27,1227.6371
+2010,Finland,Coal,18.03,1227.6371
+2010,Finland,Hydro,16.02,1227.6371
+2010,Finland,Gas,13.96,1227.6371
+2010,Finland,Bioenergy,13.6,1227.6371
+2010,Finland,Other Fossil,9.75,1227.6371
+2010,Finland,Wind,0.36,1227.6371
+2010,Russian Federation (the),Gas,50.15,1222.8594
+2010,Russian Federation (the),Nuclear,16.42,1222.8594
+2010,Russian Federation (the),Hydro,16.04,1222.8594
+2010,Russian Federation (the),Coal,16.0,1222.8594
+2010,Russian Federation (the),Other Fossil,1.34,1222.8594
+2010,Russian Federation (the),Bioenergy,0.05,1222.8594
+2010,South Korea,Coal,44.35,1207.0193
+2010,South Korea,Nuclear,30.02,1207.0193
+2010,South Korea,Gas,21.0,1207.0193
+2010,South Korea,Other Fossil,3.48,1207.0193
+2010,South Korea,Hydro,0.74,1207.0193
+2010,South Korea,Wind,0.17,1207.0193
+2010,South Korea,Solar,0.16,1207.0193
+2010,South Korea,Bioenergy,0.08,1207.0193
+2010,Iceland,Hydro,74.73,1175.0686
+2010,Iceland,Other Renewables,25.27,1175.0686
+2010,Czechia,Coal,55.03,1155.0923
+2010,Czechia,Nuclear,32.86,1155.0923
+2010,Czechia,Other Fossil,3.56,1155.0923
+2010,Czechia,Hydro,3.27,1155.0923
+2010,Czechia,Bioenergy,2.53,1155.0923
+2010,Czechia,Gas,1.62,1155.0923
+2010,Czechia,Solar,0.73,1155.0923
+2010,Czechia,Wind,0.4,1155.0923
+2010,Greenland,Hydro,70.73,1143.4848
+2010,Greenland,Other Fossil,29.27,1143.4848
+2010,Netherlands,Gas,63.78,1120.488
+2010,Netherlands,Coal,19.13,1120.488
+2010,Netherlands,Bioenergy,5.96,1120.488
+2010,Netherlands,Other Fossil,4.25,1120.488
+2010,Netherlands,Wind,3.38,1120.488
+2010,Netherlands,Nuclear,3.36,1120.488
+2010,Netherlands,Hydro,0.08,1120.488
+2010,Netherlands,Solar,0.05,1120.488
+2010,Turkmenistan,Gas,100.0,1107.9881
+2010,Belgium,Nuclear,51.53,1055.2622
+2010,Belgium,Gas,33.15,1055.2622
+2010,Belgium,Bioenergy,4.71,1055.2622
+2010,Belgium,Coal,4.51,1055.2622
+2010,Belgium,Other Fossil,3.75,1055.2622
+2010,Belgium,Wind,1.39,1055.2622
+2010,Belgium,Solar,0.62,1055.2622
+2010,Belgium,Hydro,0.33,1055.2622
+2010,Seychelles,Other Fossil,100.0,1025.7324
+2010,Germany,Coal,42.12,997.0763
+2010,Germany,Nuclear,22.52,997.0763
+2010,Germany,Gas,14.22,997.0763
+2010,Germany,Wind,6.18,997.0763
+2010,Germany,Bioenergy,5.43,997.0763
+2010,Germany,Other Fossil,4.26,997.0763
+2010,Germany,Hydro,3.36,997.0763
+2010,Germany,Solar,1.92,997.0763
+2010,Germany,Other Renewables,0.0,997.0763
+2010,Norway,Hydro,94.8,981.4282
+2010,Norway,Gas,3.9,981.4282
+2010,Norway,Wind,0.71,981.4282
+2010,Norway,Bioenergy,0.28,981.4282
+2010,Norway,Other Fossil,0.28,981.4282
+2010,Norway,Coal,0.03,981.4282
+2010,Libya,Other Fossil,52.86,979.8273
+2010,Libya,Gas,47.11,979.8273
+2010,Libya,Solar,0.03,979.8273
+2010,Singapore,Gas,77.2,963.0349
+2010,Singapore,Other Fossil,20.19,963.0349
+2010,Singapore,Bioenergy,2.6,963.0349
+2010,Japan,Gas,28.21,952.9581
+2010,Japan,Coal,27.41,952.9581
+2010,Japan,Nuclear,25.29,952.9581
+2010,Japan,Other Fossil,8.87,952.9581
+2010,Japan,Hydro,7.66,952.9581
+2010,Japan,Bioenergy,1.89,952.9581
+2010,Japan,Wind,0.34,952.9581
+2010,Japan,Solar,0.34,952.9581
+2010,Israel,Coal,58.48,944.8777
+2010,Israel,Gas,37.49,944.8777
+2010,Israel,Other Fossil,3.74,944.8777
+2010,Israel,Solar,0.12,944.8777
+2010,Israel,Bioenergy,0.1,944.8777
+2010,Israel,Hydro,0.05,944.8777
+2010,Israel,Wind,0.02,944.8777
+2010,Ireland,Gas,64.43,897.3993
+2010,Ireland,Coal,12.63,897.3993
+2010,Ireland,Wind,10.0,897.3993
+2010,Ireland,Other Fossil,9.71,897.3993
+2010,Ireland,Hydro,2.13,897.3993
+2010,Ireland,Bioenergy,1.1,897.3993
+2010,South Africa,Coal,93.78,887.0813
+2010,South Africa,Nuclear,5.21,887.0813
+2010,South Africa,Hydro,0.44,887.0813
+2010,South Africa,Gas,0.32,887.0813
+2010,South Africa,Bioenergy,0.15,887.0813
+2010,South Africa,Other Fossil,0.08,887.0813
+2010,South Africa,Solar,0.01,887.0813
+2010,South Africa,Wind,0.01,887.0813
+2010,Austria,Hydro,56.56,882.3656
+2010,Austria,Gas,21.16,882.3656
+2010,Austria,Coal,7.25,882.3656
+2010,Austria,Bioenergy,6.61,882.3656
+2010,Austria,Other Fossil,5.25,882.3656
+2010,Austria,Wind,3.04,882.3656
+2010,Austria,Solar,0.13,882.3656
+2010,Denmark,Coal,43.9,875.2591
+2010,Denmark,Gas,20.41,875.2591
+2010,Denmark,Wind,20.15,875.2591
+2010,Denmark,Bioenergy,11.85,875.2591
+2010,Denmark,Other Fossil,3.61,875.2591
+2010,Denmark,Hydro,0.05,875.2591
+2010,Denmark,Solar,0.03,875.2591
+2010,Poland,Coal,87.08,865.7718
+2010,Poland,Bioenergy,4.02,865.7718
+2010,Poland,Gas,3.06,865.7718
+2010,Poland,Other Fossil,2.92,865.7718
+2010,Poland,Hydro,1.86,865.7718
+2010,Poland,Wind,1.06,865.7718
+2010,Slovenia,Nuclear,34.81,837.784
+2010,Slovenia,Coal,32.53,837.784
+2010,Slovenia,Hydro,27.8,837.784
+2010,Slovenia,Gas,3.38,837.784
+2010,Slovenia,Bioenergy,1.35,837.784
+2010,Slovenia,Other Fossil,0.06,837.784
+2010,Slovenia,Solar,0.06,837.784
+2010,Greece,Coal,54.41,801.0895
+2010,Greece,Gas,17.4,801.0895
+2010,Greece,Hydro,13.2,801.0895
+2010,Greece,Other Fossil,9.59,801.0895
+2010,Greece,Wind,4.79,801.0895
+2010,Greece,Bioenergy,0.34,801.0895
+2010,Greece,Solar,0.28,801.0895
+2010,United Kingdom,Gas,45.97,797.6063
+2010,United Kingdom,Coal,28.16,797.6063
+2010,United Kingdom,Nuclear,16.26,797.6063
+2010,United Kingdom,Bioenergy,3.21,797.6063
+2010,United Kingdom,Other Fossil,2.75,797.6063
+2010,United Kingdom,Wind,2.69,797.6063
+2010,United Kingdom,Hydro,0.94,797.6063
+2010,United Kingdom,Solar,0.01,797.6063
+2010,New Zealand,Hydro,55.25,766.9662
+2010,New Zealand,Gas,22.21,766.9662
+2010,New Zealand,Other Renewables,12.48,766.9662
+2010,New Zealand,Wind,3.66,766.9662
+2010,New Zealand,Coal,3.2,766.9662
+2010,New Zealand,Bioenergy,1.74,766.9662
+2010,New Zealand,Other Fossil,1.47,766.9662
+2010,Malaysia,Gas,52.16,752.2902
+2010,Malaysia,Coal,39.51,752.2902
+2010,Malaysia,Hydro,5.09,752.2902
+2010,Malaysia,Other Fossil,2.24,752.2902
+2010,Malaysia,Bioenergy,1.01,752.2902
+2010,Iran (Islamic Republic of),Gas,73.77,744.7085
+2010,Iran (Islamic Republic of),Other Fossil,21.66,744.7085
+2010,Iran (Islamic Republic of),Hydro,4.35,744.7085
+2010,Iran (Islamic Republic of),Coal,0.15,744.7085
+2010,Iran (Islamic Republic of),Wind,0.07,744.7085
+2010,Iran (Islamic Republic of),Bioenergy,0.0,744.7085
+2010,Slovakia,Nuclear,53.06,740.0006
+2010,Slovakia,Hydro,19.16,740.0006
+2010,Slovakia,Coal,12.96,740.0006
+2010,Slovakia,Gas,8.05,740.0006
+2010,Slovakia,Other Fossil,4.26,740.0006
+2010,Slovakia,Bioenergy,2.4,740.0006
+2010,Slovakia,Solar,0.07,740.0006
+2010,Slovakia,Wind,0.04,740.0006
+2010,Italy,Gas,51.52,715.3488
+2010,Italy,Hydro,17.23,715.3488
+2010,Italy,Coal,13.39,715.3488
+2010,Italy,Other Fossil,9.14,715.3488
+2010,Italy,Bioenergy,3.18,715.3488
+2010,Italy,Wind,3.07,715.3488
+2010,Italy,Other Renewables,1.81,715.3488
+2010,Italy,Solar,0.64,715.3488
+2010,Cyprus,Other Fossil,98.5,701.657
+2010,Cyprus,Bioenergy,0.75,701.657
+2010,Cyprus,Wind,0.56,701.657
+2010,Cyprus,Solar,0.19,701.657
+2010,Belarus,Gas,97.13,697.162
+2010,Belarus,Other Fossil,2.38,697.162
+2010,Belarus,Bioenergy,0.26,697.162
+2010,Belarus,Hydro,0.14,697.162
+2010,Belarus,Coal,0.09,697.162
+2010,China,Coal,76.86,682.8166
+2010,China,Hydro,16.91,682.8166
+2010,China,Gas,1.85,682.8166
+2010,China,Nuclear,1.78,682.8166
+2010,China,Wind,1.17,682.8166
+2010,China,Other Fossil,0.83,682.8166
+2010,China,Bioenergy,0.59,682.8166
+2010,China,Solar,0.02,682.8166
+2010,Ukraine,Nuclear,47.21,676.6215
+2010,Ukraine,Coal,36.95,676.6215
+2010,Ukraine,Gas,8.31,676.6215
+2010,Ukraine,Hydro,6.96,676.6215
+2010,Ukraine,Other Fossil,0.43,676.6215
+2010,Ukraine,Bioenergy,0.1,676.6215
+2010,Ukraine,Wind,0.03,676.6215
+2010,Bulgaria,Coal,49.23,669.4211
+2010,Bulgaria,Nuclear,33.2,669.4211
+2010,Bulgaria,Hydro,10.95,669.4211
+2010,Bulgaria,Gas,4.29,669.4211
+2010,Bulgaria,Wind,1.48,669.4211
+2010,Bulgaria,Other Fossil,0.74,669.4211
+2010,Bulgaria,Bioenergy,0.09,669.4211
+2010,Bulgaria,Solar,0.02,669.4211
+2010,Malta,Other Fossil,100.0,626.0917
+2010,Spain,Gas,31.85,625.2952
+2010,Spain,Nuclear,20.82,625.2952
+2010,Spain,Wind,14.87,625.2952
+2010,Spain,Hydro,14.2,625.2952
+2010,Spain,Coal,8.51,625.2952
+2010,Spain,Other Fossil,6.0,625.2952
+2010,Spain,Solar,2.41,625.2952
+2010,Spain,Bioenergy,1.35,625.2952
+2010,Hong Kong,Coal,62.23,601.1745
+2010,Hong Kong,Gas,37.38,601.1745
+2010,Hong Kong,Other Fossil,0.29,601.1745
+2010,Hong Kong,Bioenergy,0.1,601.1745
+2010,Switzerland,Hydro,54.6,592.1475
+2010,Switzerland,Nuclear,39.88,592.1475
+2010,Switzerland,Other Fossil,1.83,592.1475
+2010,Switzerland,Gas,1.56,592.1475
+2010,Switzerland,Other Renewables,1.39,592.1475
+2010,Switzerland,Bioenergy,0.55,592.1475
+2010,Switzerland,Solar,0.14,592.1475
+2010,Switzerland,Wind,0.06,592.1475
+2010,Bosnia Herzegovina,Coal,51.98,582.8509
+2010,Bosnia Herzegovina,Hydro,47.43,582.8509
+2010,Bosnia Herzegovina,Other Fossil,0.3,582.8509
+2010,Bosnia Herzegovina,Gas,0.3,582.8509
+2010,France,Nuclear,76.2,580.9347
+2010,France,Hydro,10.88,580.9347
+2010,France,Gas,4.23,580.9347
+2010,France,Coal,4.15,580.9347
+2010,France,Other Fossil,1.79,580.9347
+2010,France,Wind,1.77,580.9347
+2010,France,Bioenergy,0.79,580.9347
+2010,France,Solar,0.11,580.9347
+2010,France,Other Renewables,0.09,580.9347
+2010,Sweden,Hydro,44.73,563.8792
+2010,Sweden,Nuclear,38.96,563.8792
+2010,Sweden,Bioenergy,8.21,563.8792
+2010,Sweden,Other Fossil,3.1,563.8792
+2010,Sweden,Wind,2.35,563.8792
+2010,Sweden,Gas,1.96,563.8792
+2010,Sweden,Coal,0.69,563.8792
+2010,Sweden,Solar,0.01,563.8792
+2010,Mongolia,Coal,94.68,544.2701
+2010,Mongolia,Other Fossil,4.17,544.2701
+2010,Mongolia,Hydro,0.93,544.2701
+2010,Mongolia,Solar,0.23,544.2701
+2010,Hungary,Nuclear,42.18,523.3488
+2010,Hungary,Gas,31.05,523.3488
+2010,Hungary,Coal,16.68,523.3488
+2010,Hungary,Bioenergy,6.16,523.3488
+2010,Hungary,Other Fossil,2.01,523.3488
+2010,Hungary,Wind,1.42,523.3488
+2010,Hungary,Hydro,0.51,523.3488
+2010,Portugal,Hydro,30.2,505.0165
+2010,Portugal,Gas,27.86,505.0165
+2010,Portugal,Wind,17.17,505.0165
+2010,Portugal,Coal,13.28,505.0165
+2010,Portugal,Other Fossil,5.85,505.0165
+2010,Portugal,Bioenergy,4.88,505.0165
+2010,Portugal,Solar,0.39,505.0165
+2010,Portugal,Other Renewables,0.37,505.0165
+2010,Croatia,Hydro,61.73,487.4649
+2010,Croatia,Gas,17.24,487.4649
+2010,Croatia,Coal,16.09,487.4649
+2010,Croatia,Other Fossil,3.79,487.4649
+2010,Croatia,Wind,0.95,487.4649
+2010,Croatia,Bioenergy,0.2,487.4649
+2010,Bermuda,Other Fossil,98.65,484.7391
+2010,Bermuda,Bioenergy,1.35,484.7391
+2010,Equatorial Guinea,Gas,81.82,480.6973
+2010,Equatorial Guinea,Hydro,13.64,480.6973
+2010,Equatorial Guinea,Other Fossil,4.55,480.6973
+2010,Uzbekistan,Gas,78.7,477.6276
+2010,Uzbekistan,Hydro,15.76,477.6276
+2010,Uzbekistan,Coal,4.08,477.6276
+2010,Uzbekistan,Other Fossil,1.46,477.6276
+2010,Aruba,Other Fossil,88.3,473.4971
+2010,Aruba,Wind,11.7,473.4971
+2010,North Macedonia,Coal,65.29,471.4078
+2010,North Macedonia,Hydro,33.47,471.4078
+2010,North Macedonia,Other Fossil,0.83,471.4078
+2010,North Macedonia,Gas,0.41,471.4078
+2010,Cayman Islands (the),Other Fossil,100.0,455.831
+2010,Lithuania,Gas,63.8,453.2684
+2010,Lithuania,Other Fossil,18.0,453.2684
+2010,Lithuania,Hydro,10.8,453.2684
+2010,Lithuania,Wind,4.4,453.2684
+2010,Lithuania,Bioenergy,3.0,453.2684
+2010,Argentina,Gas,50.64,429.6677
+2010,Argentina,Hydro,26.48,429.6677
+2010,Argentina,Other Fossil,13.65,429.6677
+2010,Argentina,Nuclear,5.72,429.6677
+2010,Argentina,Coal,2.39,429.6677
+2010,Argentina,Bioenergy,1.1,429.6677
+2010,Argentina,Wind,0.02,429.6677
+2010,Turkey,Gas,46.47,426.766
+2010,Turkey,Coal,26.07,426.766
+2010,Turkey,Hydro,24.53,426.766
+2010,Turkey,Wind,1.38,426.766
+2010,Turkey,Other Fossil,1.07,426.766
+2010,Turkey,Other Renewables,0.32,426.766
+2010,Turkey,Bioenergy,0.16,426.766
+2010,Latvia,Hydro,53.09,423.2833
+2010,Latvia,Gas,45.1,423.2833
+2010,Latvia,Bioenergy,1.06,423.2833
+2010,Latvia,Wind,0.75,423.2833
+2010,Chile,Hydro,35.92,420.892
+2010,Chile,Coal,28.0,420.892
+2010,Chile,Gas,17.74,420.892
+2010,Chile,Other Fossil,14.06,420.892
+2010,Chile,Bioenergy,3.73,420.892
+2010,Chile,Wind,0.55,420.892
+2010,Mexico,Gas,53.37,419.7386
+2010,Mexico,Other Fossil,15.88,419.7386
+2010,Mexico,Hydro,13.5,419.7386
+2010,Mexico,Coal,11.75,419.7386
+2010,Mexico,Bioenergy,2.9,419.7386
+2010,Mexico,Nuclear,2.13,419.7386
+2010,Mexico,Wind,0.45,419.7386
+2010,Mexico,Solar,0.01,419.7386
+2010,Romania,Coal,34.23,411.6024
+2010,Romania,Hydro,32.9,411.6024
+2010,Romania,Nuclear,19.23,411.6024
+2010,Romania,Gas,12.02,411.6024
+2010,Romania,Other Fossil,0.93,411.6024
+2010,Romania,Wind,0.51,411.6024
+2010,Romania,Bioenergy,0.18,411.6024
+2010,Lebanon,Other Fossil,88.42,409.7604
+2010,Lebanon,Gas,6.3,409.7604
+2010,Lebanon,Hydro,5.28,409.7604
+2010,French Polynesia,Other Fossil,65.82,365.659
+2010,French Polynesia,Hydro,34.18,365.659
+2010,Puerto Rico,Other Fossil,70.06,360.973
+2010,Puerto Rico,Gas,15.53,360.973
+2010,Puerto Rico,Coal,13.72,360.973
+2010,Puerto Rico,Hydro,0.69,360.973
+2010,Iraq,Other Fossil,59.44,359.1283
+2010,Iraq,Gas,30.81,359.1283
+2010,Iraq,Hydro,9.75,359.1283
+2010,Thailand,Gas,75.17,359.1217
+2010,Thailand,Coal,18.89,359.1217
+2010,Thailand,Hydro,3.4,359.1217
+2010,Thailand,Bioenergy,2.13,359.1217
+2010,Thailand,Other Fossil,0.38,359.1217
+2010,Thailand,Solar,0.04,359.1217
+2010,Bahamas (the),Other Fossil,100.0,349.1093
+2010,Gabon,Hydro,46.63,346.379
+2010,Gabon,Gas,41.97,346.379
+2010,Gabon,Other Fossil,10.88,346.379
+2010,Gabon,Bioenergy,0.52,346.379
+2010,Algeria,Gas,97.53,327.7714
+2010,Algeria,Other Fossil,2.1,327.7714
+2010,Algeria,Hydro,0.37,327.7714
+2010,Antigua and Barbuda,Other Fossil,100.0,326.4182
+2010,Macao,Gas,64.81,320.3166
+2010,Macao,Bioenergy,18.52,320.3166
+2010,Macao,Other Fossil,16.67,320.3166
+2010,Suriname,Hydro,61.22,318.0809
+2010,Suriname,Other Fossil,37.76,318.0809
+2010,Suriname,Gas,1.02,318.0809
+2010,Barbados,Other Fossil,99.03,298.0276
+2010,Barbados,Gas,0.97,298.0276
+2010,Moldova,Gas,92.96,297.0317
+2010,Moldova,Hydro,6.55,297.0317
+2010,Moldova,Other Fossil,0.49,297.0317
+2010,Azerbaijan,Gas,81.52,294.1774
+2010,Azerbaijan,Hydro,18.26,294.1774
+2010,Azerbaijan,Other Fossil,0.21,294.1774
+2010,Mauritius,Coal,38.66,293.882
+2010,Mauritius,Other Fossil,37.17,293.882
+2010,Mauritius,Bioenergy,20.45,293.882
+2010,Mauritius,Hydro,3.72,293.882
+2010,Maldives,Other Fossil,100.0,292.0242
+2010,Jordan,Gas,71.18,282.1321
+2010,Jordan,Other Fossil,28.35,282.1321
+2010,Jordan,Hydro,0.41,282.1321
+2010,Jordan,Bioenergy,0.07,282.1321
+2010,Syrian Arab Republic (the),Gas,54.93,278.8401
+2010,Syrian Arab Republic (the),Other Fossil,39.43,278.8401
+2010,Syrian Arab Republic (the),Hydro,5.58,278.8401
+2010,Syrian Arab Republic (the),Bioenergy,0.06,278.8401
+2010,Jamaica,Other Fossil,92.36,278.7124
+2010,Jamaica,Hydro,3.47,278.7124
+2010,Jamaica,Bioenergy,3.01,278.7124
+2010,Jamaica,Wind,1.16,278.7124
+2010,Tunisia,Gas,98.8,257.5576
+2010,Tunisia,Wind,0.88,257.5576
+2010,Tunisia,Hydro,0.31,257.5576
+2010,Panama,Hydro,56.78,252.9285
+2010,Panama,Other Fossil,42.95,252.9285
+2010,Panama,Bioenergy,0.27,252.9285
+2010,Cuba,Other Fossil,83.68,249.6767
+2010,Cuba,Gas,13.05,249.6767
+2010,Cuba,Bioenergy,2.64,249.6767
+2010,Cuba,Hydro,0.57,249.6767
+2010,Cuba,Wind,0.06,249.6767
+2010,Ecuador,Other Fossil,44.59,247.8932
+2010,Ecuador,Hydro,44.03,247.8932
+2010,Ecuador,Gas,11.28,247.8932
+2010,Ecuador,Bioenergy,0.1,247.8932
+2010,Egypt,Gas,76.23,237.3937
+2010,Egypt,Other Fossil,13.81,237.3937
+2010,Egypt,Hydro,8.97,237.3937
+2010,Egypt,Wind,0.98,237.3937
+2010,Egypt,Solar,0.02,237.3937
+2010,Guyana,Other Fossil,98.85,235.0598
+2010,Guyana,Bioenergy,1.15,235.0598
+2010,Brazil,Hydro,78.19,227.0341
+2010,Brazil,Gas,7.07,227.0341
+2010,Brazil,Bioenergy,6.19,227.0341
+2010,Brazil,Other Fossil,3.12,227.0341
+2010,Brazil,Nuclear,2.82,227.0341
+2010,Brazil,Coal,2.19,227.0341
+2010,Brazil,Wind,0.42,227.0341
+2010,Dominican Republic (the),Other Fossil,53.92,213.038
+2010,Dominican Republic (the),Gas,22.8,213.038
+2010,Dominican Republic (the),Coal,12.52,213.038
+2010,Dominican Republic (the),Hydro,9.68,213.038
+2010,Dominican Republic (the),Bioenergy,1.08,213.038
+2010,Saint Kitts and Nevis,Other Fossil,100.0,210.4769
+2010,Uruguay,Hydro,78.31,194.1041
+2010,Uruguay,Bioenergy,10.24,194.1041
+2010,Uruguay,Other Fossil,10.06,194.1041
+2010,Uruguay,Gas,0.74,194.1041
+2010,Uruguay,Wind,0.65,194.1041
+2010,Fiji,Other Fossil,47.73,186.2769
+2010,Fiji,Hydro,46.59,186.2769
+2010,Fiji,Bioenergy,4.55,186.2769
+2010,Fiji,Wind,1.14,186.2769
+2010,Indonesia,Coal,38.57,180.1445
+2010,Indonesia,Gas,21.87,180.1445
+2010,Indonesia,Other Fossil,20.06,180.1445
+2010,Indonesia,Hydro,9.83,180.1445
+2010,Indonesia,Other Renewables,5.27,180.1445
+2010,Indonesia,Bioenergy,4.4,180.1445
+2010,Viet Nam,Gas,48.72,179.2017
+2010,Viet Nam,Hydro,31.09,179.2017
+2010,Viet Nam,Coal,17.31,179.2017
+2010,Viet Nam,Other Fossil,2.76,179.2017
+2010,Viet Nam,Bioenergy,0.05,179.2017
+2010,Viet Nam,Wind,0.04,179.2017
+2010,Viet Nam,Solar,0.01,179.2017
+2010,Georgia,Hydro,93.17,166.1713
+2010,Georgia,Gas,6.53,166.1713
+2010,Georgia,Other Fossil,0.3,166.1713
+2010,Botswana,Coal,100.0,165.9526
+2010,Morocco,Coal,45.16,160.2448
+2010,Morocco,Other Fossil,23.76,160.2448
+2010,Morocco,Hydro,15.89,160.2448
+2010,Morocco,Gas,12.3,160.2448
+2010,Morocco,Wind,2.89,160.2448
+2010,Costa Rica,Hydro,75.6,159.0312
+2010,Costa Rica,Other Renewables,12.41,159.0312
+2010,Costa Rica,Other Fossil,6.73,159.0312
+2010,Costa Rica,Wind,3.79,159.0312
+2010,Costa Rica,Bioenergy,1.47,159.0312
+2010,Peru,Hydro,55.84,157.6063
+2010,Peru,Gas,34.08,157.6063
+2010,Peru,Other Fossil,5.85,157.6063
+2010,Peru,Coal,2.37,157.6063
+2010,Peru,Bioenergy,1.87,157.6063
+2010,Albania,Hydro,100.0,156.4321
+2010,Namibia,Hydro,95.42,150.9187
+2010,Namibia,Coal,3.82,150.9187
+2010,Namibia,Solar,0.76,150.9187
+2010,Cabo Verde,Other Fossil,100.0,147.8077
+2010,Colombia,Hydro,66.41,146.8909
+2010,Colombia,Gas,19.87,146.8909
+2010,Colombia,Coal,6.71,146.8909
+2010,Colombia,Bioenergy,4.02,146.8909
+2010,Colombia,Other Fossil,2.91,146.8909
+2010,Colombia,Wind,0.07,146.8909
+2010,Colombia,Solar,0.02,146.8909
+2010,Bolivia,Gas,65.41,145.1385
+2010,Bolivia,Hydro,32.48,145.1385
+2010,Bolivia,Bioenergy,1.2,145.1385
+2010,Bolivia,Other Fossil,0.9,145.1385
+2010,Armenia,Hydro,40.35,141.185
+2010,Armenia,Nuclear,36.52,141.185
+2010,Armenia,Gas,22.97,141.185
+2010,Armenia,Wind,0.16,141.185
+2010,India,Coal,68.59,140.2267
+2010,India,Gas,12.59,140.2267
+2010,India,Hydro,11.6,140.2267
+2010,India,Nuclear,2.46,140.2267
+2010,India,Wind,2.08,140.2267
+2010,India,Bioenergy,1.53,140.2267
+2010,India,Other Fossil,1.15,140.2267
+2010,India,Solar,0.01,140.2267
+2010,Samoa,Other Fossil,58.33,136.305
+2010,Samoa,Hydro,41.67,136.305
+2010,Bhutan,Hydro,100.0,127.6738
+2010,Kyrgyzstan,Hydro,91.74,120.82
+2010,Kyrgyzstan,Coal,5.0,120.82
+2010,Kyrgyzstan,Other Fossil,1.75,120.82
+2010,Kyrgyzstan,Gas,1.5,120.82
+2010,Congo (the),Hydro,55.13,118.5692
+2010,Congo (the),Gas,43.59,118.5692
+2010,Congo (the),Other Fossil,1.28,118.5692
+2010,Tonga,Other Fossil,100.0,117.5047
+2010,Dominica,Other Fossil,85.71,112.2584
+2010,Dominica,Hydro,14.29,112.2584
+2010,El Salvador,Other Fossil,35.01,110.7535
+2010,El Salvador,Hydro,34.84,110.7535
+2010,El Salvador,Other Renewables,25.46,110.7535
+2010,El Salvador,Bioenergy,4.69,110.7535
+2010,Saint Lucia,Other Fossil,100.0,106.4913
+2010,Grenada,Other Fossil,100.0,106.3754
+2010,Yemen,Other Fossil,73.45,98.4657
+2010,Yemen,Gas,26.55,98.4657
+2010,Angola,Hydro,67.77,97.6178
+2010,Angola,Other Fossil,32.05,97.6178
+2010,Angola,Solar,0.18,97.6178
+2010,Honduras,Other Fossil,51.39,95.3504
+2010,Honduras,Hydro,42.36,95.3504
+2010,Honduras,Bioenergy,6.25,95.3504
+2010,Paraguay,Hydro,100.0,90.9851
+2010,Philippines (the),Coal,34.4,88.175
+2010,Philippines (the),Gas,28.82,88.175
+2010,Philippines (the),Other Renewables,14.66,88.175
+2010,Philippines (the),Hydro,11.52,88.175
+2010,Philippines (the),Other Fossil,10.48,88.175
+2010,Philippines (the),Wind,0.09,88.175
+2010,Philippines (the),Bioenergy,0.03,88.175
+2010,Saint Vincent and the Grenadines,Other Fossil,80.0,88.0328
+2010,Saint Vincent and the Grenadines,Hydro,20.0,88.0328
+2010,Guatemala,Hydro,43.1,81.2187
+2010,Guatemala,Other Fossil,23.08,81.2187
+2010,Guatemala,Bioenergy,17.65,81.2187
+2010,Guatemala,Coal,13.24,81.2187
+2010,Guatemala,Other Renewables,2.94,81.2187
+2010,Nicaragua,Other Fossil,63.29,81.1807
+2010,Nicaragua,Hydro,13.7,81.1807
+2010,Nicaragua,Bioenergy,10.41,81.1807
+2010,Nicaragua,Other Renewables,8.22,81.1807
+2010,Nicaragua,Wind,4.38,81.1807
+2010,Pakistan,Other Fossil,35.11,78.1108
+2010,Pakistan,Hydro,33.65,78.1108
+2010,Pakistan,Gas,27.37,78.1108
+2010,Pakistan,Nuclear,2.71,78.1108
+2010,Pakistan,Bioenergy,1.05,78.1108
+2010,Pakistan,Coal,0.1,78.1108
+2010,Pakistan,Wind,0.01,78.1108
+2010,Pakistan,Solar,0.01,78.1108
+2010,Eswatini,Bioenergy,64.86,76.9217
+2010,Eswatini,Hydro,32.43,76.9217
+2010,Eswatini,Other Fossil,1.35,76.9217
+2010,Eswatini,Coal,1.35,76.9217
+2010,Zimbabwe,Hydro,67.13,75.3563
+2010,Zimbabwe,Coal,31.83,75.3563
+2010,Zimbabwe,Bioenergy,0.81,75.3563
+2010,Zimbabwe,Other Fossil,0.23,75.3563
+2010,Belize,Hydro,61.9,72.6007
+2010,Belize,Bioenergy,26.19,72.6007
+2010,Belize,Other Fossil,7.14,72.6007
+2010,Belize,Gas,4.76,72.6007
+2010,Sao Tome and Principe,Other Fossil,100.0,68.3161
+2010,Solomon Islands,Other Fossil,100.0,67.2461
+2010,Vanuatu,Other Fossil,100.0,64.9743
+2010,Sri Lanka,Hydro,52.66,64.7385
+2010,Sri Lanka,Other Fossil,46.59,64.7385
+2010,Sri Lanka,Wind,0.47,64.7385
+2010,Sri Lanka,Bioenergy,0.28,64.7385
+2010,Mauritania,Other Fossil,85.88,62.3864
+2010,Mauritania,Hydro,14.12,62.3864
+2010,Nigeria,Gas,75.58,56.8501
+2010,Nigeria,Hydro,24.38,56.8501
+2010,Nigeria,Bioenergy,0.04,56.8501
+2010,Kiribati,Other Fossil,100.0,56.2077
+2010,Papua New Guinea,Other Fossil,48.15,55.4253
+2010,Papua New Guinea,Hydro,24.22,55.4253
+2010,Papua New Guinea,Gas,16.24,55.4253
+2010,Papua New Guinea,Other Renewables,11.4,55.4253
+2010,Senegal,Other Fossil,87.62,55.221
+2010,Senegal,Hydro,7.74,55.221
+2010,Senegal,Gas,2.48,55.221
+2010,Senegal,Bioenergy,2.17,55.221
+2010,Benin,Other Fossil,100.0,51.8419
+2010,Sudan (the),Hydro,81.0,47.7484
+2010,Sudan (the),Other Fossil,17.15,47.7484
+2010,Sudan (the),Bioenergy,1.85,47.7484
+2010,Lao People's Democratic Republic (the),Hydro,100.0,46.7526
+2010,Ghana,Hydro,68.48,44.1535
+2010,Ghana,Other Fossil,18.48,44.1535
+2010,Ghana,Gas,12.85,44.1535
+2010,Ghana,Bioenergy,0.2,44.1535
+2010,Tajikistan,Hydro,99.76,40.1313
+2010,Tajikistan,Gas,0.24,40.1313
+2010,Bangladesh,Gas,92.46,39.9175
+2010,Bangladesh,Other Fossil,3.62,39.9175
+2010,Bangladesh,Coal,1.88,39.9175
+2010,Bangladesh,Hydro,1.86,39.9175
+2010,Bangladesh,Solar,0.17,39.9175
+2010,Cameroon,Hydro,72.01,39.7812
+2010,Cameroon,Other Fossil,19.8,39.7812
+2010,Cameroon,Gas,7.17,39.7812
+2010,Cameroon,Bioenergy,1.02,39.7812
+2010,Togo,Other Fossil,59.09,37.5012
+2010,Togo,Hydro,40.91,37.5012
+2010,Cambodia,Other Fossil,92.08,35.5699
+2010,Cambodia,Hydro,2.97,35.5699
+2010,Cambodia,Coal,2.97,35.5699
+2010,Cambodia,Bioenergy,1.98,35.5699
+2010,Kenya,Hydro,47.35,32.5744
+2010,Kenya,Other Fossil,25.56,32.5744
+2010,Kenya,Other Renewables,20.25,32.5744
+2010,Kenya,Bioenergy,6.56,32.5744
+2010,Kenya,Wind,0.28,32.5744
+2010,Cote d'Ivoire,Gas,70.42,32.5275
+2010,Cote d'Ivoire,Hydro,26.89,32.5275
+2010,Cote d'Ivoire,Other Fossil,1.51,32.5275
+2010,Cote d'Ivoire,Bioenergy,1.18,32.5275
+2010,Timor-Leste,Other Fossil,100.0,30.8294
+2010,Malawi,Hydro,90.62,30.2749
+2010,Malawi,Other Fossil,6.25,30.2749
+2010,Malawi,Bioenergy,3.12,30.2749
+2010,Afghanistan,Hydro,85.23,27.5381
+2010,Afghanistan,Other Fossil,7.95,27.5381
+2010,Afghanistan,Coal,6.82,27.5381
+2010,Haiti,Other Fossil,75.0,26.4982
+2010,Haiti,Hydro,25.0,26.4982
+2010,Lesotho,Hydro,100.0,26.2893
+2010,Guinea,Hydro,76.19,24.2534
+2010,Guinea,Other Fossil,23.81,24.2534
+2010,Comoros (the),Other Fossil,100.0,23.9144
+2010,Gambia (the),Other Fossil,100.0,22.9779
+2010,Zambia,Hydro,99.9,20.9178
+2010,Zambia,Other Fossil,0.1,20.9178
+2010,Guinea-Bissau,Other Fossil,100.0,20.1296
+2010,Liberia,Other Fossil,100.0,19.6605
+2010,Myanmar,Hydro,71.81,17.601
+2010,Myanmar,Gas,20.42,17.601
+2010,Myanmar,Coal,7.42,17.601
+2010,Myanmar,Other Fossil,0.35,17.601
+2010,Eritrea,Other Fossil,100.0,17.5439
+2010,Nepal,Hydro,99.69,17.4991
+2010,Nepal,Solar,0.31,17.4991
+2010,"Tanzania, the United Republic of",Hydro,50.66,16.3842
+2010,"Tanzania, the United Republic of",Gas,44.09,16.3842
+2010,"Tanzania, the United Republic of",Other Fossil,3.75,16.3842
+2010,"Tanzania, the United Republic of",Bioenergy,1.31,16.3842
+2010,"Tanzania, the United Republic of",Solar,0.19,16.3842
+2010,Mozambique,Hydro,99.88,15.6805
+2010,Mozambique,Gas,0.12,15.6805
+2010,Mali,Other Fossil,50.85,12.5204
+2010,Mali,Hydro,46.61,12.5204
+2010,Mali,Bioenergy,2.12,12.5204
+2010,Mali,Solar,0.42,12.5204
+2010,Burkina Faso,Other Fossil,77.59,12.1751
+2010,Burkina Faso,Hydro,20.69,12.1751
+2010,Burkina Faso,Solar,1.72,12.1751
+2010,Sierra Leone,Hydro,85.71,11.458
+2010,Sierra Leone,Other Fossil,14.29,11.458
+2010,Uganda,Hydro,54.38,11.2859
+2010,Uganda,Other Fossil,40.51,11.2859
+2010,Uganda,Bioenergy,4.38,11.2859
+2010,Uganda,Solar,0.73,11.2859
+2010,Madagascar,Hydro,53.85,8.872
+2010,Madagascar,Other Fossil,45.38,8.872
+2010,Madagascar,Bioenergy,0.77,8.872
+2010,Niger (the),Coal,68.97,8.7124
+2010,Niger (the),Other Fossil,31.03,8.7124
+2010,Ethiopia,Hydro,97.41,7.5951
+2010,Ethiopia,Bioenergy,1.2,7.5951
+2010,Ethiopia,Other Fossil,1.0,7.5951
+2010,Ethiopia,Other Renewables,0.4,7.5951
+2010,Rwanda,Other Fossil,57.14,7.0773
+2010,Rwanda,Hydro,39.29,7.0773
+2010,Rwanda,Gas,3.57,7.0773
+2010,Somalia,Other Fossil,100.0,6.4607
+2010,Central African Republic (the),Hydro,81.25,4.4692
+2010,Central African Republic (the),Other Fossil,18.75,4.4692
+2010,Congo (the Democratic Republic of the),Hydro,98.85,4.2944
+2010,Congo (the Democratic Republic of the),Gas,1.02,4.2944
+2010,Congo (the Democratic Republic of the),Other Fossil,0.13,4.2944
+2010,Chad,Other Fossil,100.0,4.2266
+2010,Faroe Islands (the),Other Fossil,71.43,4.1104
+2010,Faroe Islands (the),Hydro,25.0,4.1104
+2010,Faroe Islands (the),Wind,3.57,4.1104
+2010,Burundi,Hydro,87.5,3.4256
+2010,Burundi,Other Fossil,12.5,3.4256
+2010,Virgin Islands (U.S.),Other Fossil,100.0,0.1846
+2010,American Samoa,Other Fossil,100.0,0.1811
+2010,Guam,Other Fossil,100.0,0.1802
+2010,Nauru,Other Fossil,100.0,0.0
