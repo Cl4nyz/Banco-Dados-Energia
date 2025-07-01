@@ -7,7 +7,20 @@
 
 ## Descrição do Projeto
 
-O presente projeto tem como objetivo aplicar ferramentas de bancos de dados na exploração do [**Objetivo de Desenvolvimento Sustentável nº 7: Energia Limpa e Acessível**](https://brasil.un.org/pt-br/sdgs/7). Para tal, correlaciona dados sobre energia, PIB, território, demografia e emissão de gases de diferentes países, realizando 5 pesquisas (queries) não triviais utilizando os arquivos CSV fornecidos. O projeto busca explorar relações entre essas variáveis, permitindo uma análise mais profunda e integrada dos dados.
+O presente projeto tem como objetivo aplicar ferramentas de bancos de dados na exploração do [**Objetivo de Desenvolvimento Sustentável #7: Energia Limpa e Acessível**](https://brasil.un.org/pt-br/sdgs/7). Para tal, correlaciona dados sobre energia, PIB, território, demografia e emissão de gases de diferentes países, realizando 5 pesquisas (queries) não triviais utilizando os arquivos CSV fornecidos. O projeto busca explorar relações entre essas variáveis, permitindo uma análise mais profunda e integrada dos dados.
+
+Na segunda etapa do projeto, o segundo cenário foi proposto:
+
+>Seu desafio é desenvolver um sistema para armazenamento de dados semi-estruturados que podem variar bastante em suas propriedades. O modelo de dados deve permitir a inclusão de novos campos sem exigir alterações no esquema ou migrações. O volume de acessos simultâneos é alto, especialmente por APIs que manipulam entidades completas (com todas as suas informações agregadas). Há uma exigência de escalabilidade horizontal e suporte a replicação e particionamento automático.
+>
+>**Requisitos Técnicos:**
+>* Estrutura de dados flexível, com esquemas dinâmicos.
+>* Manipulação (leitura e escrita) de entidades completas.
+>* Alta escalabilidade e tolerância a falhas.
+>* Baixa latência em operações CRUD.
+>* Suporte a replicação, particionamento e balanceamento de carga.
+
+Para suprir as necessidades listadas, foi escolhido o sistema noSQL **MongoDB**. As razões da escolha e mais vantagens da escolha estão listadas em [justificativa.md](./justificativa.md).
 
 ## Estrutura do Projeto
 
@@ -52,13 +65,13 @@ As pesquisas realizadas têm como foco:
    PASSWORD = 'sua_senha_aqui'
    HOST = 'localhost'
    PORT = '5432'
-```
+   ```
 
 3. Execute os scripts SQL disponíveis para realizar as análises.
 4. Analise os resultados das consultas para obter insights sobre as correlações entre as variáveis.
 
 ## Requisitos
 
-- Banco de dados compatível com SQL (PostgreSQL).
+- PostgreSQL e/ou MongoDB.
 - Ferramenta para manipulação de dados CSV (opcional).
 
