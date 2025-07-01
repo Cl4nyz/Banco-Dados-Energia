@@ -20,7 +20,7 @@ Na segunda etapa do projeto, o segundo cenário foi proposto:
 >* Baixa latência em operações CRUD.
 >* Suporte a replicação, particionamento e balanceamento de carga.
 
-Para suprir as necessidades listadas, foi escolhido o sistema noSQL **MongoDB**. As razões da escolha e mais vantagens da escolha estão listadas em [justificativa.md](./justificativa.md).
+Para suprir as necessidades listadas, foi escolhido o sistema noSQL **MongoDB**. As razões da escolha e mais vantagens estão listadas em [justificativa.md](./justificativa.md).
 
 ## Estrutura do Projeto
 
