@@ -130,8 +130,8 @@ ano,pais,fonte,producao_energia_porcentagem,emissao_co2_per_capita
 2010,Japan,Other Fossil,8.87,952.9581
 2010,Japan,Hydro,7.66,952.9581
 2010,Japan,Bioenergy,1.89,952.9581
-2010,Japan,Wind,0.34,952.9581
 2010,Japan,Solar,0.34,952.9581
+2010,Japan,Wind,0.34,952.9581
 2010,Israel,Coal,58.48,944.8777
 2010,Israel,Gas,37.49,944.8777
 2010,Israel,Other Fossil,3.74,944.8777
@@ -178,8 +178,8 @@ ano,pais,fonte,producao_energia_porcentagem,emissao_co2_per_capita
 2010,Slovenia,Hydro,27.8,837.784
 2010,Slovenia,Gas,3.38,837.784
 2010,Slovenia,Bioenergy,1.35,837.784
-2010,Slovenia,Other Fossil,0.06,837.784
 2010,Slovenia,Solar,0.06,837.784
+2010,Slovenia,Other Fossil,0.06,837.784
 2010,Greece,Coal,54.41,801.0895
 2010,Greece,Gas,17.4,801.0895
 2010,Greece,Hydro,13.2,801.0895
@@ -284,8 +284,8 @@ ano,pais,fonte,producao_energia_porcentagem,emissao_co2_per_capita
 2010,Switzerland,Wind,0.06,592.1475
 2010,Bosnia Herzegovina,Coal,51.98,582.8509
 2010,Bosnia Herzegovina,Hydro,47.43,582.8509
-2010,Bosnia Herzegovina,Other Fossil,0.3,582.8509
 2010,Bosnia Herzegovina,Gas,0.3,582.8509
+2010,Bosnia Herzegovina,Other Fossil,0.3,582.8509
 2010,France,Nuclear,76.2,580.9347
 2010,France,Hydro,10.88,580.9347
 2010,France,Gas,4.23,580.9347
@@ -661,8 +661,8 @@ ano,pais,fonte,producao_energia_porcentagem,emissao_co2_per_capita
 2010,Togo,Other Fossil,59.09,37.5012
 2010,Togo,Hydro,40.91,37.5012
 2010,Cambodia,Other Fossil,92.08,35.5699
-2010,Cambodia,Hydro,2.97,35.5699
 2010,Cambodia,Coal,2.97,35.5699
+2010,Cambodia,Hydro,2.97,35.5699
 2010,Cambodia,Bioenergy,1.98,35.5699
 2010,Kenya,Hydro,47.35,32.5744
 2010,Kenya,Other Fossil,25.56,32.5744
